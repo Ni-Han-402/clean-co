@@ -1,9 +1,12 @@
 import './App.css';
+import Navber from './components/Navber';
 
 function App() {
   return (
     <div>
-      <button className='btn btn-primary'>hello</button>
+      <Navber>
+
+      </Navber>
     </div>
   );
 }
